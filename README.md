@@ -32,6 +32,7 @@ I have created a informational bot named "Health Chat bot" using Html and servic
 ### Home Page 
 ![home page](https://user-images.githubusercontent.com/114293705/193553658-e691f828-e981-4b3f-a65c-a3e15086c784.png)
 
+![home 2](https://user-images.githubusercontent.com/114293705/193553943-a303104a-c684-4fa6-bbc3-1240435bdf36.png)
 
 # Tech Stack 💻
 
