@@ -34,6 +34,8 @@ I have created a informational bot named "Health Chat bot" using Html and servic
 
 ![home 2](https://user-images.githubusercontent.com/114293705/193553943-a303104a-c684-4fa6-bbc3-1240435bdf36.png)
 
+![home 3](https://user-images.githubusercontent.com/114293705/193554172-e4055650-113e-4cb5-a76d-1b33369c9343.png)
+
 # Tech Stack 💻
 
 ## Languages and Azure services used in my bot:-
