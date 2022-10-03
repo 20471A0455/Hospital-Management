@@ -30,7 +30,7 @@ I have created a informational bot named "Health Chat bot" using Html and servic
 
 ## Screenshorts:
 ### Home Page 
-
+![home page](https://user-images.githubusercontent.com/114293705/193553658-e691f828-e981-4b3f-a65c-a3e15086c784.png)
 
 
 # Tech Stack 💻
